@@ -1,0 +1,3 @@
+// fire an exposure of an experiment to the server
+// url: http://localhost:3000/track_baaa_experiment?group=a&amp;name=rename_of_social_marketing_cat_to_online_marketing
+function baaa_exposure(e,t,n){document.baaaExperiments||(document.baaaExperiments=[]),document.baaaExperiments.push(function(){if(userAlreadyTestedForExperiment(e)==0)var r=jQuery.get("/track_baaa_experiment?group="+t+"&name="+e+"&description="+n)})}function userAlreadyTestedForExperiment(e){return $.cookie("baaa_exp")==null?!1:$.cookie("baaa_exp").indexOf(e+"|")!=-1?!0:!1};
