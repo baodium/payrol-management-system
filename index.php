@@ -121,11 +121,7 @@
 			  <div class="footer-nav">
                 <div class="cl">&nbsp;</div>
 		      </div>
-			  <center>
-                <p >Designed By Falegan Taiwo Martha (U/10/CS/0006).</p>
-			    <p >Project Supervisor: Mr. Yisa.<br/>
-                    <span>A  project submitted to  Computer Science Department, Oduduwa University, Ipetumodu in partiall fulfillment of the award of B.Sc</span></p>
-		      </center>
+			
 			  <p >&nbsp;</p>
 		      </center>
 			  <div class="cl">&nbsp;</div>
